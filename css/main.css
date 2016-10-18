@@ -41,6 +41,16 @@
 	margin: 0 auto 1em auto;
 }
 
+.profile-pic img {
+	display: inline-block;
+	width: 100px;
+	margin: 20px 10px 0 10px;
+}
+
+.answerer-info {
+	margin-left: 30px;
+}
+
 .error {
 	background-color: #F78181;
 	padding: 1em;
